@@ -1,2 +1,3 @@
 # theOdinProject
-initial test repo for ToP
+MY first github repo
+hello Odin!
